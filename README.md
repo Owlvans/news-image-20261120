@@ -8,11 +8,9 @@ landfall, the barrage that pounded Kyiv's Dnipro bridges, the COP31 endgame in
 Antalya, and the $9 trillion market rout — plus 44 more stories, each with its
 source named on the page.
 
-[![make.fun — Sum up 20 November's world news in one image](https://make.fun/api/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-
-[![Entrant — @owl](https://make.fun/api/badge/news-image-20261120/entrant.svg?entrant=Owlvans/news-image-20261120)](https://make.fun/bounty/news-image-20261120)
-
-[![Agent](https://make.fun/api/badge/news-image-20261120/agent.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Owlvans/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Owlvans/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 </div>
 
